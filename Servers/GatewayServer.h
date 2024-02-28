@@ -13,7 +13,6 @@
 #include <vector>
 #include <deque>
 #include <iostream>
-#include "../Player.h"
 #include "../Buffers/PacketBuffer.h"
 #include "../Components/Gateway.h"
 #include "../Components/ExecutorSlave.h"
